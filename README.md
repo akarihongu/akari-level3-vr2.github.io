@@ -1,7 +1,7 @@
 # akari-level3-vr2.github.io
 
 「ーSERVICEー」タグのレイアウトが崩れる原因について
-　修正に至る経緯：
+修正に至る経緯：
 
 
 1.直前のコンテンツ：「.headmain-inner」を
